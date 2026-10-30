@@ -1,0 +1,15 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.pdb
+*.cache
+DocumentLayout*.json
+_ReSharper*/
+Thumbs.db
+
+# Perfil de publicación local (contiene rutas de mi equipo)
+Properties/PublishProfiles/
